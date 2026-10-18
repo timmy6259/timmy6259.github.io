@@ -2,13 +2,13 @@ Package: mips64-elf-ld
 Version: 2.47.50.20261018
 Architecture: iphoneos-arm64
 Maintainer: timmy6259 <3313bee.timmy6259@gmail.com>
-Filename: debs/mips64-elf-ld_iphoneosarm64.deb
-Size: 568408
-MD5sum: 1867bc2c06970e20e186ac45017e443e
-SHA1: 493a610ab314c683877365541f45c505e4ddf533
-SHA256: 834343eb83abff6c352a142b4f8cac47b19e6cb5a3111392ec6b57465e811a48
+Filename: debs/mips64-elf-ld_iphoneos-arm64.deb
+Size: 568648
+MD5sum: 29fad5110ed164ab4f096d751299c5b3
+SHA1: 834ef0c7a0fc98771f4076c54882de1f20707cd2
+SHA256: 3c103b9e80c308d294d24a7272120fc95781647c10fd6a2a35a66c40f33d92b8
 Section: Development
 Priority: optional
-Description: mips64-elf-ld for rootless iOS. Built on iOS 18.6.2, clang16 targeting arm64-apple-ios16.0.
+Description: mips64-elf-ld for rootless iOS. Built on the iOS 18.6.2, clang16 targeting arm64-apple-ios16.0. Build instructions on the https://github.com/timmy6259/binutils-gdb
 Name: mips64-elf-ld
 
