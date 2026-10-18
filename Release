@@ -1,0 +1,16 @@
+Origin: Timmy6259's Repo
+Label: Timmy6259's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Timmy6259's custom jailbreak tweaks
+Trusted: Yes
+Key-Config: key.asc
+MD5Sum:
+ 76a66f3ee81acd46528583c084f9f7bd 517 Packages
+ e90f5086c7804fea1a26846346244158 401 Packages.bz2
+SHA256:
+ f8e93c6315682512e8e59ecb89e13264aa8fb4c89767aa9c0b8923c85b327cb3 517 Packages
+ 4261346eeb6e96fe08befb61ce31f7d85c4ff3f1bc39bb2bd0fdd31ef61ea6ea 401 Packages.bz2
