@@ -9,8 +9,8 @@ Description: Timmy6259's custom jailbreak tweaks
 Trusted: Yes
 Key-Config: key.asc
 MD5Sum:
- 2fe6cddb424f2fbccffe18a2b5093c70 590 Packages
- 04fe6fdb1516fe6a06dc706c8c23d9fd 441 Packages.bz2
+ 5aab6234251f140b83aca886bcc1e8b8 642 Packages
+ c1a1fdd31689c613a21854a4c5e38493 465 Packages.bz2
 SHA256:
- 211809488e979cd08e934145214599d9af99d94e9fb230d2b880a91609ab30ac 590 Packages
- ce80ae48a9123c8977fc75181306e0f038aab69b04a8bca9d28b9282ea3bbbc1 441 Packages.bz2
+ 2c28e321d7bd6ab711226916e1b9083ed4572e9bf970368eb3d1c2c4bd8c0dd5 642 Packages
+ d2e7d79f86d0128da12c4f6f85de4cd073c6cc8920231e46529602d754c37b0e 465 Packages.bz2
